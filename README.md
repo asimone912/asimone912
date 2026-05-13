@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>osTicket (Help Desk Ticketing System)</b>install-config)
+- <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Ticket Lifecycle Examples](https://github.com/asimone912/ticket-lifecycle)
   
 <h2>🤳Connect with me:</h2>
