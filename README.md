@@ -2,9 +2,7 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/asimone912/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/asimone912/post-install-config)
+- <b>osTicket (Help Desk Ticketing System)</b>install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/asimone912/ticket-lifecycle)
   
 <h2>🤳Connect with me:</h2>
