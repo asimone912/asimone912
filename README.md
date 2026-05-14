@@ -12,7 +12,7 @@
 [linkedin]: ![LinkedIn](https://shields.io)
 <p>
 </p>
-[https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white]
+
 
 
 <h2></h2>
