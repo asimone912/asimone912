@@ -16,5 +16,4 @@
 [linkedin]: https://www.linkedin.com/in/ashley-simone-58bb133b8/
 <p>
   
-</p>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+</p>[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
