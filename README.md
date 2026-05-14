@@ -16,3 +16,4 @@
 [linkedin]: https://www.linkedin.com/in/ashley-simone-58bb133b8/
 
 &show_icons=true
+![Python](https://shields.io)
