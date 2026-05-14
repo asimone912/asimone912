@@ -15,5 +15,7 @@
 [instagram]: https://www.instagram.com/
 [linkedin]: https://www.linkedin.com/in/ashley-simone-58bb133b8/
 <p></p>
+
+
 <h2></h2>
 [![My Skills](https://skillicons.dev/icons?i=js,html,wasm,apple,azure,discord,ps,ubuntu,windows,)](https://skillicons.dev)
