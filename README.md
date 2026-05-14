@@ -15,4 +15,4 @@
 [instagram]: https://www.instagram.com/
 [linkedin]: https://www.linkedin.com/in/ashley-simone-58bb133b8/
 
-[![My Skills](https://skillicons.dev)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
