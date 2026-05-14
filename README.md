@@ -19,5 +19,4 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,html,wasm,apple,azure,discord,ps,ubuntu,windows" />
   </a>
-</p>
-[![My Skills](https://skillicons.dev/icons?i=js,html,apple,azure,discord,ps,ubuntu,windows,)](https://skillicons.dev)
+
