@@ -10,8 +10,9 @@
 [<img align="left" alt="Josh | LinkedIn" width="27px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: ![LinkedIn](https://shields.io)
-<p><
+<p>
 </p>
+https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white
 
 
 <h2></h2>
